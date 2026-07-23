@@ -18,19 +18,36 @@ Building open-source generative AI tooling and apps, most of it powered by [muap
 
 Python wrappers and reference docs for accessing the latest models via muapi:
 
-[Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) · [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) · [Veo-4-API](https://github.com/Anil-matcha/Veo-4-API) · [Seedream-5-Pro-API](https://github.com/Anil-matcha/Seedream-5-Pro-API) · [Awesome-Happy-Horse-1.0-API-and-Prompt](https://github.com/Anil-matcha/Awesome-Happy-Horse-1.0-API-and-Prompt) · [hailuo-3.0-api](https://github.com/Anil-matcha/hailuo-3.0-api)
+- [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API)
+- [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API)
+- [Veo-4-API](https://github.com/Anil-matcha/Veo-4-API)
+- [Seedream-5-Pro-API](https://github.com/Anil-matcha/Seedream-5-Pro-API)
+- [Awesome-Happy-Horse-1.0-API-and-Prompt](https://github.com/Anil-matcha/Awesome-Happy-Horse-1.0-API-and-Prompt)
+- [hailuo-3.0-api](https://github.com/Anil-matcha/hailuo-3.0-api)
 
 ## Awesome-lists & prompt guides
 
-[awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) · [awesome-ai-image-models](https://github.com/Anil-matcha/awesome-ai-image-models) · [awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) · [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) · [Awesome-GPT-Image-2-API-Prompts](https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts) · [Awesome-Gemini-Omni-API-Prompts](https://github.com/Anil-matcha/Awesome-Gemini-Omni-API-Prompts) · [Awesome-GPT-5.6-API-and-Prompts](https://github.com/Anil-matcha/Awesome-GPT-5.6-API-and-Prompts) · [awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5)
+- [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models)
+- [awesome-ai-image-models](https://github.com/Anil-matcha/awesome-ai-image-models)
+- [awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts)
+- [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts)
+- [Awesome-GPT-Image-2-API-Prompts](https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts)
+- [Awesome-Gemini-Omni-API-Prompts](https://github.com/Anil-matcha/Awesome-Gemini-Omni-API-Prompts)
+- [Awesome-GPT-5.6-API-and-Prompts](https://github.com/Anil-matcha/Awesome-GPT-5.6-API-and-Prompts)
+- [awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5)
 
 ## Video & content generation
 
-[vox-ai-motion-graphics-generator](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator) — Vox-style paper-collage explainer videos, fully automated · [AI-Voice-Agent](https://github.com/Anil-matcha/AI-Voice-Agent) — self-hosted AI voice agent · [ai-clipping-comfyui](https://github.com/Anil-matcha/ai-clipping-comfyui) — Opus Clip alternative for ComfyUI · [AI-B-roll](https://github.com/Anil-matcha/AI-B-roll) — generate b-roll for any video
+- [vox-ai-motion-graphics-generator](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator) — Vox-style paper-collage explainer videos, fully automated
+- [AI-Voice-Agent](https://github.com/Anil-matcha/AI-Voice-Agent) — self-hosted AI voice agent
+- [ai-clipping-comfyui](https://github.com/Anil-matcha/ai-clipping-comfyui) — Opus Clip alternative for ComfyUI
+- [AI-B-roll](https://github.com/Anil-matcha/AI-B-roll) — generate b-roll for any video
 
 ## Other apps
 
-[open-character-ai](https://github.com/Anil-matcha/open-character-ai) — Character.AI alternative · [Open-Poe-AI](https://github.com/Anil-matcha/Open-Poe-AI) — Poe AI alternative, bring your own keys · [open-larryloop](https://github.com/Anil-matcha/open-larryloop) — auto-generate viral carousel slides from any website
+- [open-character-ai](https://github.com/Anil-matcha/open-character-ai) — Character.AI alternative
+- [Open-Poe-AI](https://github.com/Anil-matcha/Open-Poe-AI) — Poe AI alternative, bring your own keys
+- [open-larryloop](https://github.com/Anil-matcha/open-larryloop) — auto-generate viral carousel slides from any website
 
 ---
 
