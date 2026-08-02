@@ -2,6 +2,11 @@
 
 Building open-source generative AI tooling and apps, most of it powered by [muapi.ai](https://muapi.ai) — one API for 250+ image, video, and audio models. Official muapi SDKs, CLI, and integrations live under the [SamurAIGPT](https://github.com/SamurAIGPT) org; this account has the flagship open-source apps, model-specific wrappers, and awesome-lists.
 
+## Related Projects
+
+- [MuAPI model playground](https://muapi.ai/playground) — Try the image, video, and audio models used across this ecosystem.
+- [MuAPI API quick start](https://muapi.ai/docs/quick-start) — Connect the SDKs, apps, and integrations to one generative-media API.
+
 ## Flagship projects
 
 | Repo | What it is |
